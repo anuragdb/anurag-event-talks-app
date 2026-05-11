@@ -1,0 +1,11 @@
+# Generated files
+index.html
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Gemini CLI internal files
+.gemini/
